@@ -26,3 +26,18 @@ Things you may want to cover:
 =======
 # motion2.0
 >>>>>>> 931f1da0243c3a451d6966bc2895ce0cb507b1df
+========
+
+
+INSTALAR WSL 
+RUBY INSTALLER 
+RAILS USANDO gem
+
+node -v 
+npm -v
+ruby -v
+rails -v
+gem -v
+
+
+yarn? bugado. -> bootstrap via CDN 
