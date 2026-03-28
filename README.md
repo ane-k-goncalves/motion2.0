@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,9 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# motion2.0
->>>>>>> 931f1da0243c3a451d6966bc2895ce0cb507b1df
 ========
 
 
@@ -36,8 +32,11 @@ RAILS USANDO gem
 node -v 
 npm -v
 ruby -v
-rails -v
 gem -v
+bundle install --gemfile
+rails -v
+
+rails server
 
 
 yarn? bugado. -> bootstrap via CDN 
